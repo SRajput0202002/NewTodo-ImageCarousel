@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "my image 1",
+    "src": "https://picsum.photos/seed/img1/600/400",
+    "alt": "Image 1 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 2,
+    "name": "my image 2",
+    "src": "https://picsum.photos/seed/img2/600/400",
+    "alt": "Image 2 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 3,
+    "name": "my image 3",
+    "src": "https://picsum.photos/seed/img3/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 4,
+    "name": "my image 4",
+    "src": "https://picsum.photos/seed/img4/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 5,
+    "name": "my image 5",
+    "src": "https://picsum.photos/seed/img5/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 6,
+    "name": "my image 6",
+    "src": "https://picsum.photos/seed/img6/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 7,
+    "name": "my image 7",
+    "src": "https://picsum.photos/seed/img7/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 8,
+    "name": "my image 8",
+    "src": "https://picsum.photos/seed/img8/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 9,
+    "name": "my image 9",
+    "src": "https://picsum.photos/seed/img9/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 10,
+    "name": "my image 10",
+    "src": "https://picsum.photos/seed/img10/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 11,
+    "name": "my image 11",
+    "src": "https://picsum.photos/seed/img11/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  },
+  {
+    "id": 12,
+    "name": "my image 12",
+    "src": "https://picsum.photos/seed/img12/600/400",
+    "alt": "Image 3 for carousel",
+    "Price": 1000
+  }
+]
